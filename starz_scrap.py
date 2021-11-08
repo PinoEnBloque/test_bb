@@ -54,8 +54,6 @@ for id in rq_pagina['blocks'][7]['playContentsById']:
 
     if rq_titulo['contentType'] == 'Series with Season':
         link = createLink('series', id)
-        genre = createGenre(rq_titulo['genres'])
-        credit = createCredits(rq_titulo['credits'])
 
         rq_temporadas = rq_titulo['childContent']
 
@@ -84,7 +82,7 @@ for id in rq_pagina['blocks'][7]['playContentsById']:
             'año' : createYear(rq_titulo['minReleaseYear'], rq_titulo['maxReleaseYear']),
             'edad' : rq_titulo['ratingCode'], 
             'estudio' : rq_titulo['studio'],
-            'genero' : genre,
+            'genero' : createGenre(rq_titulo['genres']),
             'sinopsis' : rq_titulo['logLine'],
             'elenco' : createCredits(rq_titulo['credits']),
             'temporadas' : temporadas,
@@ -94,14 +92,13 @@ for id in rq_pagina['blocks'][7]['playContentsById']:
         
     elif rq_titulo['contentType'] == 'Movie':
         link = createLink('movies', id)
-        genre = createGenre(rq_titulo['genres'])
 
         peliculas[link] = {
             'titulo' : rq_titulo['title'],
             'año' : rq_titulo['releaseYear'],
             'edad' : rq_titulo['ratingCode'], 
             'estudio' : rq_titulo['studio'],
-            'generos' : genre,
+            'generos' : createGenre(rq_titulo['genres']),
             'sinopsis' : rq_titulo['logLine'],
             }   
         if rq_titulo['comingSoon']: 
