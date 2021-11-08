@@ -2,7 +2,7 @@ import requests
 import json
 
 def writeData (archivo, _json):
-    editor = open(archivo, "w")
+    editor = open(archivo, 'w')
     to_json = json.dumps(_json, indent=4)
     editor.write(to_json)
     editor.close()
@@ -16,7 +16,7 @@ def createLink(type, code):
     return link
 
 def createYear(min_year, max_year):
-    year = min_year if min_year == max_year else min_year + " — " + max_year
+    year = min_year if min_year == max_year else min_year + ' — ' + max_year
     return year
 
 def createGenre(genres):
@@ -38,6 +38,18 @@ def createCredits(credits):
         }
     return elenco
 
+def createRuntime(runtime):
+    clean_runtime = str(runtime // 60) + ' min'
+    return clean_runtime
+
+def createContingency(key, startdate, runtime):
+    value = ''
+    if key == 'proximamente':
+        value = sliceDate(startdate)
+    else:
+        value = createRuntime(runtime)
+    return value
+
 # rq_pagina = Trae todo el contenido de la página
 # rq_titulo = Trae todo el contenido de cada título
 # rq_temporadas = Trae todas las temporadas de cada título
@@ -47,21 +59,20 @@ if __name__ == '__main__':
     series = dict()
     peliculas = dict()
 
-    rq_pagina = requests.get('https://playdata.starz.com/metadata-service/play/partner/Web_AR/v8/blocks?playContents=map&lang=es\
-                            -419&pages=BROWSE,HOME,MOVIES,PLAYLIST,SEARCH,SEARCH%20RESULTS,SERIES&includes=contentId,contentType,\
-                            title,product,seriesName,seasonNumber,free,comingSoon,newContent,topContentId,properCaseTitle,\
-                            categoryKeys,runtime,popularity,original,firstEpisodeRuntime,releaseYear,minReleaseYear,maxReleaseYear,\
-                            episodeCount,detail').json()
+    rq_pagina = requests.get('https://playdata.starz.com/metadata-service/play/partner/Web_AR/v8/blocks?playContents=map&lang=es' \
+                            '-419&pages=BROWSE,HOME,MOVIES,PLAYLIST,SEARCH,SEARCH%20RESULTS,SERIES&includes=contentId,contentType,' \
+                            'title,product,seriesName,seasonNumber,free,comingSoon,newContent,topContentId,properCaseTitle,' \
+                            'categoryKeys,runtime,popularity,original,firstEpisodeRuntime,releaseYear,minReleaseYear,maxReleaseYear,' \
+                            'episodeCount,detail').json()
 
     for id in rq_pagina['blocks'][7]['playContentsById']:
-        rq_titulo = requests.get('https://playdata.starz.com/metadata-service/play/partner/Web_AR/v8/content?lang=es-419&\
-                                contentIds=' + id + '&includes=title,logLine,episodeCount,seasonNumber,contentId,releaseYear\
-                                ,minReleaseYear,maxReleaseYear,runtime,genres,ratingCode,studio,contentType,product,comingSoon\
-                                ,startDate,original,childContent,bonusMaterials,previews,free,topContentId,credits,order').json()
+        rq_titulo = requests.get('https://playdata.starz.com/metadata-service/play/partner/Web_AR/v8/content?lang=es-419&' \
+                                'contentIds=' + id + '&includes=title,logLine,episodeCount,seasonNumber,contentId,releaseYear' \
+                                ',minReleaseYear,maxReleaseYear,runtime,genres,ratingCode,studio,contentType,product,comingSoon' \
+                                ',startDate,original,childContent,bonusMaterials,previews,free,topContentId,credits,order').json()
         rq_titulo = rq_titulo['playContentArray']['playContents'][0]
 
         if rq_titulo['contentType'] == 'Series with Season':
-            link = createLink('series', id)
 
             rq_temporadas = rq_titulo['childContent']
 
@@ -76,6 +87,7 @@ if __name__ == '__main__':
                     episodios[createLink('series', episodio['contentId'])] = {    
                         'titulo' : str(episodio['order']) + ' ' + episodio['title'],
                         'año' : episodio['releaseYear'],
+                        'duracion' : createRuntime(episodio['runtime']),
                         'sinopsis' : episodio['logLine']
                     }
                     temporadas[createLink('series', temporada['contentId'])] = {
@@ -85,7 +97,7 @@ if __name__ == '__main__':
                         'episodios' : episodios
                     }
 
-            series[link] = {
+            series[createLink('series', id)] = {
                 'titulo' : rq_titulo['title'],
                 'año' : createYear(rq_titulo['minReleaseYear'], rq_titulo['maxReleaseYear']),
                 'edad' : rq_titulo['ratingCode'], 
@@ -96,50 +108,49 @@ if __name__ == '__main__':
                 'temporadas' : temporadas,
                 }
                 
-            writeData("starz_series.json", series)
+            writeData('starz_series.json', series)
             
         elif rq_titulo['contentType'] == 'Movie':
-            link = createLink('movies', id)
 
-            peliculas[link] = {
+            released = 'proximamente' if rq_titulo['comingSoon'] else 'duracion'
+
+            peliculas[createLink('movies', id)] = {
                 'titulo' : rq_titulo['title'],
                 'año' : rq_titulo['releaseYear'],
                 'edad' : rq_titulo['ratingCode'], 
                 'estudio' : rq_titulo['studio'],
                 'generos' : createGenre(rq_titulo['genres']),
+                released : createContingency(released, rq_titulo.get('startDate'), rq_titulo.get('runtime')),
                 'sinopsis' : rq_titulo['logLine'],
+                'elenco' : createCredits(rq_titulo['credits'])
                 }   
-            if rq_titulo['comingSoon']: 
-                peliculas[link]['proximamente'] = sliceDate(rq_titulo['startDate'])
-            else:
-                peliculas[link]['duracion'] = str(rq_titulo['runtime'] // 60) + " min"
-            peliculas[link]['elenco'] = createCredits(rq_titulo['credits'])
+            
+            writeData('starz_peliculas.json', peliculas)
 
-            writeData("starz_peliculas.json", peliculas)
+#   Código generado con Insomnia
+    url = 'https://auth.starz.com/api/v4/Subscriptions/Recurly'
 
-    url = "https://auth.starz.com/api/v4/Subscriptions/Recurly"
+    querystring = {'country':'ar'}
 
-    querystring = {"country":"ar"}
-
-    payload = ""
-    headers = {                                                         # Es probable que la cookie se desactualice
-        "authority": "auth.starz.com",
-        "accept": "application/json, text/plain, */*",
-        "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36",
-        "authtokenauthorization": "PLAYAUTH1.0 x=nonce=wQM8gM4H, apikey=A81FB88033CD4DC4A47801D19288306E, \
-            signature_method=SHA256, requesttime=2021-11-08T18:06:37.182Z, deviceid=fbde51016aea4741b38e38a\
-            75a5ad83c, AllowAuthNOnly=true, platformtype=HTML5, platformversion=Chrome, platformostype=Windows\
-            ,platformosversion=10, signature=tRtVKGOWGoDOkOjpv5FeZQKOGWiJMCrNcQbN81jzoCU=",
-        "sec-gpc": "1",
-        "origin": "https://www.starz.com",
-        "sec-fetch-site": "same-site",
-        "sec-fetch-mode": "cors",
-        "sec-fetch-dest": "empty",
-        "referer": "https://www.starz.com/",
-        "accept-language": "es-ES,es;q=0.9"
+    payload = ''
+    headers = {     # Es probable que las credenciales o cookies se desactualicen
+        'authority': 'auth.starz.com',
+        'accept': 'application/json, text/plain, */*',
+        'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36',
+        'authtokenauthorization': 'PLAYAUTH1.0 x=nonce=wQM8gM4H, apikey=A81FB88033CD4DC4A47801D19288306E,' \
+            'signature_method=SHA256, requesttime=2021-11-08T18:06:37.182Z, deviceid=fbde51016aea4741b38e38a' \
+            '75a5ad83c, AllowAuthNOnly=true, platformtype=HTML5, platformversion=Chrome, platformostype=Windows' \
+            ',platformosversion=10, signature=tRtVKGOWGoDOkOjpv5FeZQKOGWiJMCrNcQbN81jzoCU=',
+        'sec-gpc': '1',
+        'origin': 'https://www.starz.com',
+        'sec-fetch-site': 'same-site',
+        'sec-fetch-mode': 'cors',
+        'sec-fetch-dest': 'empty',
+        'referer': 'https://www.starz.com/',
+        'accept-language': 'es-ES,es;q=0.9'
     }
 
-    rq_pagina = requests.request("GET", url, data=payload, headers=headers, params=querystring).json()
+    rq_pagina = requests.request('GET', url, data=payload, headers=headers, params=querystring).json()
     rq_pagina = rq_pagina['orderedBuyFlowProducts'][0]['properties']
 
     modelo_negocio = dict()
@@ -149,4 +160,4 @@ if __name__ == '__main__':
         'prueba_gratis' : rq_pagina['TrialIntervalLength'] + ' ' + rq_pagina['TrialIntervalUnit']
     }
 
-    writeData("starz_modelo.json", modelo_negocio)
+    writeData('starz_modelo.json', modelo_negocio)
