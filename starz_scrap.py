@@ -25,6 +25,19 @@ def createGenre(genres):
         clean_genre = clean_genre + genre['description'] if clean_genre == '' else clean_genre + ', ' + genre['description']
     return clean_genre
 
+def createCredits(credits):
+    elenco = dict() 
+    for credit in credits: 
+        clean_role = ''
+        roles = credit['keyedRoles']  
+        for role in roles:
+            clean_role = clean_role + role['name'] if clean_role == '' else clean_role + ', ' + role['name']
+        elenco[createLink('artist', credit['id'])] = {
+            'nombre' : credit['name'],
+            'rol' : clean_role
+        }
+    return elenco
+
 series = dict()
 peliculas = dict()
 
@@ -42,6 +55,7 @@ for id in rq_pagina['blocks'][7]['playContentsById']:
     if rq_titulo['contentType'] == 'Series with Season':
         link = createLink('series', id)
         genre = createGenre(rq_titulo['genres'])
+        credit = createCredits(rq_titulo['credits'])
 
         rq_temporadas = rq_titulo['childContent']
 
@@ -72,7 +86,8 @@ for id in rq_pagina['blocks'][7]['playContentsById']:
             'estudio' : rq_titulo['studio'],
             'genero' : genre,
             'sinopsis' : rq_titulo['logLine'],
-            'temporadas' : temporadas
+            'elenco' : createCredits(rq_titulo['credits']),
+            'temporadas' : temporadas,
             }
             
         writeData("starz_series.json", series)
@@ -93,5 +108,6 @@ for id in rq_pagina['blocks'][7]['playContentsById']:
             peliculas[link]['proximamente'] = sliceDate(rq_titulo['startDate'])
         else:
             peliculas[link]['duracion'] = str(rq_titulo['runtime'] // 60) + " min"
+        peliculas[link]['elenco'] = createCredits(rq_titulo['credits'])
 
         writeData("starz_peliculas.json", peliculas)

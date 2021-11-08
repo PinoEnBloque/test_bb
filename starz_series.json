@@ -6,6 +6,60 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Acci\u00f3n, Drama",
         "sinopsis": "Traicionado por Romanos. Forzado a la esclavitud. Renacido como Gladiador. Apartado de su patria y su mujer, Spartacus es condenado al mundo de la arena donde la sangre y la muerte reinan.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4466696": {
+                "nombre": "Steven S. Deknight",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5194151": {
+                "nombre": "Antonio Te Maioha",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1268925": {
+                "nombre": "Craig Parker",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/55075": {
+                "nombre": "John Hannah",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4415662": {
+                "nombre": "Andy Whitfield",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4514511": {
+                "nombre": "Liam McIntyre",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/675952": {
+                "nombre": "Lucy Lawless",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4401650": {
+                "nombre": "Manu Bennett",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/2067267": {
+                "nombre": "Peter Mensah",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4494679": {
+                "nombre": "Dustin Clare",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4444413": {
+                "nombre": "Erin Cummings",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4412720": {
+                "nombre": "Jaime Murray",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4440482": {
+                "nombre": "Nick E. Tarabay",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/5974": {
                 "titulo": "Spartacus: Sangre y Arena - Temporada 1",
@@ -239,6 +293,72 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Drama, Literaria",
         "sinopsis": "\"The White Queen\" es una fascinante historia de amor y deseo, traici\u00f3n y asesinatos, en donde se tejen vibrantemente las historias de tres mujeres diferentes pero igualmente perseverantes: Isabel Woodwille, Margarita Beaufort y Anna Neville. En la b\u00fasqueda por el poder, conspirar\u00e1n, manipular\u00e1n y seducir\u00e1n en el camino para llegar al trono de Inglaterra.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4394372": {
+                "nombre": "Philippa Gregory",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4550859": {
+                "nombre": "Rebecca Ferguson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4516862": {
+                "nombre": "Aneurin Barnard",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4505332": {
+                "nombre": "Amanda Hale",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/54454": {
+                "nombre": "Janet McTeer",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4581881": {
+                "nombre": "Faye Marsay",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4461488": {
+                "nombre": "Max Irons",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4570642": {
+                "nombre": "Ben Lamb",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4497820": {
+                "nombre": "Tom McKay",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/55555": {
+                "nombre": "Juliet Aubrey",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4510532": {
+                "nombre": "David Oakes",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4439219": {
+                "nombre": "Eleanor Tomlinson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/978": {
+                "nombre": "Caroline Goodall",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4581882": {
+                "nombre": "Eve Ponsonby",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/311822": {
+                "nombre": "James Frain",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/6472": {
+                "nombre": "Rupert Graves",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/18331": {
                 "titulo": "Temporada 1",
@@ -306,6 +426,88 @@
         "estudio": "\u00a9 Starz Entertainment",
         "genero": "Drama, Acci\u00f3n",
         "sinopsis": "La aventura pirata \"Black Sails\", se centra en las historias del capit\u00e1n Flint y su notoria tripulaci\u00f3n mientras luchan por la fortuna y la supervivencia antes de los eventos descritos en el libro \"La isla del tesoro\".",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4703423": {
+                "nombre": "Mark Ryan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/674353": {
+                "nombre": "Toby Stephens",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4569481": {
+                "nombre": "Hannah New",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186263": {
+                "nombre": "Dylan Skews",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4456365": {
+                "nombre": "Luke Arnold",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4700387": {
+                "nombre": "Patrick Lyster",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4414548": {
+                "nombre": "Jessica Parker Kennedy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5073132": {
+                "nombre": "Karl Thaning",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4456147": {
+                "nombre": "Tom Hopper",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4430974": {
+                "nombre": "Zach McGowan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186261": {
+                "nombre": "Jannes Eiselen",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4375929": {
+                "nombre": "Langley Kirkwood",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4376005": {
+                "nombre": "Toby Schmitz",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4562390": {
+                "nombre": "Clara Paget",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4703380": {
+                "nombre": "Mark Elderkin",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4416632": {
+                "nombre": "Hakeem Kae-Kazim",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4698407": {
+                "nombre": "Jeremy Crutchley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4438630": {
+                "nombre": "Sean Cameron Michael",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4464538": {
+                "nombre": "Louise Barnes",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/864859": {
+                "nombre": "Rupert Penry-Jones",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/19965": {
                 "titulo": "Temporada 1",
@@ -534,6 +736,100 @@
         "estudio": "\u00a9 Starz Entertainment",
         "genero": "Drama",
         "sinopsis": "El productor ejecutivo Curtis \u201c50 Cent\u201d Jackson presenta \"Power,\" un drama criminal sobre el due\u00f1o de un club nocturno quien tambi\u00e9n es el capo de un lucrativo imperio de drogas.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4499231": {
+                "nombre": "Joseph Sikora",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4725332": {
+                "nombre": "Luis Antonio Ramos",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1266014": {
+                "nombre": "Greg Serano",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4366615": {
+                "nombre": "Shane Johnson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4375515": {
+                "nombre": "50 Cent",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4583915": {
+                "nombre": "Rotimi Akinosho",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4401892": {
+                "nombre": "Omari Hardwick",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186312": {
+                "nombre": "Alani \"La La\" Anthony",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4415537": {
+                "nombre": "Jerry Ferrara",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4518679": {
+                "nombre": "Lela Loren",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4442548": {
+                "nombre": "Naturi Naughton",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4942524": {
+                "nombre": "Michael Rainey Jr.",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4839547": {
+                "nombre": "Matt Cedeno",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4708338": {
+                "nombre": "Sung Kang",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/7606": {
+                "nombre": "William Sadler",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/55989": {
+                "nombre": "Larenz Tate",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4901952": {
+                "nombre": "Kathrine Narducci",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4817462": {
+                "nombre": "Adam Huss",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4901003": {
+                "nombre": "Sinqua Walls",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4912441": {
+                "nombre": "Lucy Walters",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4966851": {
+                "nombre": "J.R. Ramirez",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4854851": {
+                "nombre": "David Fumero",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5106518": {
+                "nombre": "Andy Bean",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/21222": {
                 "titulo": "Temporada 1",
@@ -911,6 +1207,80 @@
         "estudio": "\u00a9 Starz",
         "genero": "Danza, Drama",
         "sinopsis": "Esta oscura y delicada serie sigue a una joven bailarina, Claire, que se une a una prestigiosa compa\u00f1\u00eda de ballet de la ciudad de Nueva York y se encuentra con el glamour y la disfunci\u00f3n del mundo del ballet.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4705799": {
+                "nombre": "Bronwyn Garrity",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4645617": {
+                "nombre": "Sarah Hay",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/50917": {
+                "nombre": "Ben Daniels",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1430": {
+                "nombre": "Damon Herriman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4645618": {
+                "nombre": "Emily Tyra",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4446595": {
+                "nombre": "John Allee",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4554059": {
+                "nombre": "Josh Helman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4652357": {
+                "nombre": "Karell Williams",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4652358": {
+                "nombre": "Patrick Page",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4652359": {
+                "nombre": "Raychel D. Weiner",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4418950": {
+                "nombre": "Sascha Radetsky",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4652360": {
+                "nombre": "Irina Dvorovenko",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4652361": {
+                "nombre": "Marina Benedict",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4635936": {
+                "nombre": "Alik Sakharov",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4341048": {
+                "nombre": "Adam Davidson",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4380286": {
+                "nombre": "Joshua Marston",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/57619": {
+                "nombre": "Nelson McCormick",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5108816": {
+                "nombre": "David Mich\u00f4d",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/24539": {
                 "titulo": "Temporada 1",
@@ -968,6 +1338,36 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Drama",
         "sinopsis": "\"The Girlfriend Experience\" es la reinvenci\u00f3n de la aclamada pel\u00edcula en 2009 del mismo nombre de Steven Soderbergh y explora las relaciones entre acompa\u00f1antes exclusivas y sus clientes, para quienes proveen de mucho m\u00e1s cosas que solo sexo. Conocidas como acompa\u00f1antes, son mujeres que proveen \"La Experiencia de una Amiga\"\u2014relaciones a un precio muy alto.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4449883": {
+                "nombre": "Amy Seimetz",
+                "rol": "Escritor, Director"
+            },
+            "https://www.starz.com/ar/es/artist/844893": {
+                "nombre": "Lodge Kerrigan",
+                "rol": "Escritor, Director"
+            },
+            "https://www.starz.com/ar/es/artist/5271682": {
+                "nombre": "Julia Goldani Telles",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4709035": {
+                "nombre": "Oliver Masucci",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/50590": {
+                "nombre": "Anna Friel",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4699173": {
+                "nombre": "Louisa Krause",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/51467": {
+                "nombre": "Carmen Ejogo",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/25588": {
                 "titulo": "Temporada 1",
@@ -1189,6 +1589,56 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Drama, Literaria",
         "sinopsis": "\u201cThe White Princess\u201d representa una turbulenta \u00e9poca de la historia brit\u00e1nica desde la visi\u00f3n de las mujeres que encarnan una dura batalla por el poder.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4509244": {
+                "nombre": "Emma Frost",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4692048": {
+                "nombre": "Jodie Comer",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4692051": {
+                "nombre": "Jacob Collins-Levy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4692049": {
+                "nombre": "Rebecca Benson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4369659": {
+                "nombre": "Richard Dillane",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4692365": {
+                "nombre": "Michelle Fairley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4120": {
+                "nombre": "Kenneth Cranham",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206945": {
+                "nombre": "Nicholas Audsley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/666561": {
+                "nombre": "Essie Davis",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4689126": {
+                "nombre": "Joanne Whalley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/978": {
+                "nombre": "Caroline Goodall",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/60608": {
+                "nombre": "Vincent Regan",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/30895": {
                 "titulo": "Temporada 1",
@@ -1246,6 +1696,44 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Drama",
         "sinopsis": "El alcalde Tom Kane (Kelsey Grammer) es el rey de Chicago y gobierna su dominio con un pu\u00f1o de hierro. El enga\u00f1o, el esc\u00e1ndalo y la traici\u00f3n van de la mano con la forma de pol\u00edtica de Kane.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/55762": {
+                "nombre": "Kelsey Grammer",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4691988": {
+                "nombre": "Connie Nielsen",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4691990": {
+                "nombre": "Jeff Hephner",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4691993": {
+                "nombre": "Kathleen Robertson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/2258": {
+                "nombre": "Francis Guinan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4324848": {
+                "nombre": "Troy Garity",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5212545": {
+                "nombre": "Martin Donovan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4691996": {
+                "nombre": "Hannah Ware",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4583915": {
+                "nombre": "Rotimi Akinosho",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/30889": {
                 "titulo": "Temporada 1",
@@ -1360,6 +1848,56 @@
         "estudio": "\u00a9 PLAYGROUND TELEVISION UK",
         "genero": "Drama, Literaria",
         "sinopsis": "\"Howards End\" es la historia de dos hermanas independientes, poco convencionales y los hombres en sus vidas; buscan significado y amor mientras navegan en un mundo que cambia constantemente.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4688542": {
+                "nombre": "Ken Lonergan",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4691011": {
+                "nombre": "Matthew Macfadyen",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4405571": {
+                "nombre": "Hayley Atwell",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4701332": {
+                "nombre": "Philippa Coulthard",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4961991": {
+                "nombre": "Alex Lawther",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5166208": {
+                "nombre": "Joe Bannister",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186215": {
+                "nombre": "Donna Banya",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/7286": {
+                "nombre": "Tracey Ullman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186219": {
+                "nombre": "Bessie Carter",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5210403": {
+                "nombre": "Joseph Quinn",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5162059": {
+                "nombre": "Rosalind Eleazar",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4701331": {
+                "nombre": "Hettie Macdonald",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/37270": {
                 "titulo": "Temporada 1",
@@ -1397,6 +1935,52 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Drama, Literaria",
         "sinopsis": "Tess empieza a trabajar en uno de los restaurantes m\u00e1s elegantes de Nueva York, pensando en que ser\u00eda un trabajo temporal, pero pronto se vio imbuida en al ambiente de sus colegas, la vida nocturna, y el ritmo r\u00e1pido del estilo de vida de la ciudad.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5186278": {
+                "nombre": "Jaquen Castellanos",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4479703": {
+                "nombre": "Ella Purnell",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4702371": {
+                "nombre": "Tom Sturridge",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4702333": {
+                "nombre": "Caitlin Fitzgerald",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4702485": {
+                "nombre": "Evan Jonigkeit",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5228743": {
+                "nombre": "Daniyar",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5183548": {
+                "nombre": "Eden Epstein",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186647": {
+                "nombre": "Jimmie Saito",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4408911": {
+                "nombre": "Paul Sparks",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186645": {
+                "nombre": "Katerina Tannenbaum",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186646": {
+                "nombre": "Jasmine Mathews",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/37700": {
                 "titulo": "Temporada 1",
@@ -1491,6 +2075,32 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Comedia, Drama",
         "sinopsis": "\"Vida\" es una serie de media hora que se enfoca en dos hermanas mexico-americanas de lado Este de Los \u00c1ngeles que no podr\u00edan ser m\u00e1s diferentes ni estar m\u00e1s distanciadas entre s\u00ed. Las circunstancias las obligan a volver a su antiguo barrio en donde son confrontadas por su pasado y por la insospechada verdad sobre la identidad de su madre.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4701996": {
+                "nombre": "Melissa Barrera",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4701994": {
+                "nombre": "Mishel Prada",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4701995": {
+                "nombre": "Ser Anzoategui",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4885222": {
+                "nombre": "Maria-Elena Laas",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4911949": {
+                "nombre": "Carlos Miranda",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707861": {
+                "nombre": "Chelsea Rendon",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/37708": {
                 "titulo": "Temporada 1",
@@ -1637,6 +2247,52 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Documental, Drama",
         "sinopsis": "Un equipo de expertos junto con investigadores locales buscan la verdad que hay detr\u00e1s de casos criminales de convictos que fueron encarcelados por d\u00e9cadas y que presumen ser inocentes.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5186655": {
+                "nombre": "Ronald Kuby",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186654": {
+                "nombre": "Joe D. Kennedy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186652": {
+                "nombre": "Sue-Ann Robinson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186653": {
+                "nombre": "Ira Lee Todd Jr.",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4701530": {
+                "nombre": "Joe Berlinger",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5197427": {
+                "nombre": "Catharine Park",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5198284": {
+                "nombre": "Boaz Halaban",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4702438": {
+                "nombre": "Rebecca Teitel",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4702488": {
+                "nombre": "Erica Sashin",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4702523": {
+                "nombre": "Johanna Hamilton",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4702666": {
+                "nombre": "Nell Constantinople",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/38185": {
                 "titulo": "Temporada 1",
@@ -1726,6 +2382,24 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Documental",
         "sinopsis": "La serie documental sin libreto \u201cAm\u00e9rica para m\u00ed\u201d lidia con problemas cruciales al plantear preguntas complejas y controvertidas, como se ve a trav\u00e9s de los ojos de un diverso grupo de j\u00f3venes estadounidenses.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/59787": {
+                "nombre": "Steve James",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5123729": {
+                "nombre": "Bing Liu",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5071822": {
+                "nombre": "Rebecca Parrish",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5186382": {
+                "nombre": "Kevin Shaw",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/38825": {
                 "titulo": "Temporada 1",
@@ -1793,6 +2467,12 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Documental, Deportes",
         "sinopsis": "La serie sigue a los Guerreros de Liberty City, un programa de f\u00fatbol juvenil. La vida, como el f\u00fatbol, es un deporte de contacto, y para los ni\u00f1os, ser un Guerrero es el secreto para ambos.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4704254": {
+                "nombre": "Andrew Cohn",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/39041": {
                 "titulo": "Temporada 1",
@@ -1840,6 +2520,44 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Drama, Hist\u00f3rica",
         "sinopsis": "\"The Spanish Princess\" es la v\u00edvida y cautivante narraci\u00f3n de la historia de Catalina de Arag\u00f3n, que ha sido hist\u00f3ricamente eclipsada por su infame matrimonio con el rey Enrique VIII.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4610591": {
+                "nombre": "Charlotte Hope",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5215107": {
+                "nombre": "Richard Pepper",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4687479": {
+                "nombre": "Harriet Walter",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4708208": {
+                "nombre": "Aaron Cobham",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4394476": {
+                "nombre": "Elliot Cowan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5106902": {
+                "nombre": "Stuart McNeil",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5108518": {
+                "nombre": "Ruairi O'connor",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5215108": {
+                "nombre": "Jordan Renzo",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5215109": {
+                "nombre": "Olly Rix",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/42458": {
                 "titulo": "Temporada 1",
@@ -1949,6 +2667,32 @@
         "estudio": "\u00a9 STARZ ENTERTAINMENT, LLC",
         "genero": "Comedia, LGBTQ",
         "sinopsis": "\u201cNow Apocalypse\u201d se centra en Ulysses y sus amigos, en su b\u00fasqueda de amor, sexo y fama mientras intentan navegar la ciudad de Los \u00c1ngeles. Los sue\u00f1os de Ulysses le hacen preguntarse si no existe una especie de conspiraci\u00f3n oscura.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4707320": {
+                "nombre": "Avan Jogia",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186328": {
+                "nombre": "Jacob Artist",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707321": {
+                "nombre": "Kelli Berglund",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707614": {
+                "nombre": "Roxane Mesquida",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4701971": {
+                "nombre": "Beau Mirchoff",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707615": {
+                "nombre": "Tyler Posey",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/43574": {
                 "titulo": "Temporada 1",
@@ -2016,6 +2760,76 @@
         "estudio": "\u00a9 STARZ ENTERTAINMENT",
         "genero": "Drama, Fantas\u00eda",
         "sinopsis": "Cuando una mujer despierta rodeada de cad\u00e1veres sin ning\u00fan recuerdo, debe revelar su misterioso pasado para conocer la verdad.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4577742": {
+                "nombre": "Emma Greenwell",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4708546": {
+                "nombre": "Jon Fletcher",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/511891": {
+                "nombre": "Adrian Lester",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4437811": {
+                "nombre": "Olivia Munn",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4708547": {
+                "nombre": "Ronan Raftery",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/54967": {
+                "nombre": "Joely Richardson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186363": {
+                "nombre": "Joshua Squire",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4854407": {
+                "nombre": "Catherine Steadman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186364": {
+                "nombre": "Toby Cordes",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5197242": {
+                "nombre": "Tamsin Topolski",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4920901": {
+                "nombre": "Barry Atsma",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4913759": {
+                "nombre": "Howard Corlett",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186361": {
+                "nombre": "Michael Karim",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4947624": {
+                "nombre": "Luke Roberts",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186366": {
+                "nombre": "Michael Thyx",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4708750": {
+                "nombre": "China Moo-Young",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/55619": {
+                "nombre": "Kari Skogland",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/44141": {
                 "titulo": "Temporada 1",
@@ -2073,6 +2887,68 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "Max posee uno de los imperios medi\u00e1ticos m\u00e1s influyentes del mundo. La informaci\u00f3n es su oficio: tiene secretos oscuros para todos y usa su poder despiadadamente, incluso en su propia familia.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4708520": {
+                "nombre": "Tom Rob Smith",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/6057": {
+                "nombre": "Richard Gere",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/678241": {
+                "nombre": "Helen McRory",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707526": {
+                "nombre": "Billy Howle",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4700146": {
+                "nombre": "Sarah Lancashire",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5097108": {
+                "nombre": "Pippa Bennett-Warner",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/59589": {
+                "nombre": "Sinead Cusack",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4428816": {
+                "nombre": "Joseph Mawle",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5193942": {
+                "nombre": "Paul Ready",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4934924": {
+                "nombre": "Danny Sapani",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4720825": {
+                "nombre": "Diana Kent",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5010085": {
+                "nombre": "Pippa Nixon",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4859189": {
+                "nombre": "Tony Pitts",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5193933": {
+                "nombre": "Darryl Dale",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4447718": {
+                "nombre": "James Kent",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/44759": {
                 "titulo": "Temporada 1",
@@ -2130,6 +3006,56 @@
         "estudio": "\u00a9 Starz",
         "genero": "Crimen, Drama",
         "sinopsis": "Un oscuro drama psicol\u00f3gico donde Idris Elba interpreta a Luther, un hombre que lucha contra sus propios demonios terribles, que podr\u00eda ser tan peligroso como los depravados asesinos que caza.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/2067769": {
+                "nombre": "Idris Elba",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4704890": {
+                "nombre": "Ruth Wilson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1268735": {
+                "nombre": "Dermot Crowley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4410814": {
+                "nombre": "Michael Smiley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4703179": {
+                "nombre": "Warren Brown",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4687628": {
+                "nombre": "Darren Boyd",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4963755": {
+                "nombre": "Rose Leslie",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4445498": {
+                "nombre": "Laura Haddock",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4696862": {
+                "nombre": "Steven Mackintosh",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/54128": {
+                "nombre": "Indira Varma",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5638": {
+                "nombre": "Paul McGann",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/59346": {
+                "nombre": "Saskia Reeves",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/45057": {
                 "titulo": "Temporada 1",
@@ -2275,6 +3201,12 @@
         "estudio": "\u00a9 Starz",
         "genero": "Documental, Drama",
         "sinopsis": "\"Leavenworth\" est\u00e1 basada en la pol\u00e9mica historia real de Clint Lorance, un ex teniente, que cumple una condena de 19 a\u00f1os por homicidio en la prisi\u00f3n estadounidense de \"Leavenworth.\"",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5020955": {
+                "nombre": "Paul Pawlowski",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/45101": {
                 "titulo": "Temporada 1",
@@ -2322,6 +3254,68 @@
         "estudio": "\u00a9 Starz",
         "genero": "Crimen, Drama",
         "sinopsis": "\u201cDublin Murders\u201d es una serie de misterio de ocho episodios con una trama que se adentra profundamente en el pasado de Irlanda, presagia su presente y brinda una percepci\u00f3n de su futuro.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4693945": {
+                "nombre": "Sarah Phelps",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4870169": {
+                "nombre": "Sarah Greene",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4964313": {
+                "nombre": "Killian Scott",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/868889": {
+                "nombre": "Ned Dennehy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5039707": {
+                "nombre": "Moe Dunford",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4694607": {
+                "nombre": "Jonathan Forbes",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5191318": {
+                "nombre": "Jonny Holden",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/111717": {
+                "nombre": "Peter McDonald",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5061748": {
+                "nombre": "Leah McNamara",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4942113": {
+                "nombre": "Conleth Hill",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5193026": {
+                "nombre": "Eugene O'Hare",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5132902": {
+                "nombre": "Ian Kenny",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4417756": {
+                "nombre": "Tom Vaughan-Lawlor",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5274097": {
+                "nombre": "John Hayes",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4825001": {
+                "nombre": "Saul Dibb",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/57170": {
                 "titulo": "Temporada 1",
@@ -2384,6 +3378,52 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "En 1327, un brillante monje franciscano ing\u00e9s, Guillermo de Baskerville, es enviado por el Santo Imperio Romano a un monasterio aislado al norte de Italia para un dram\u00e1tico y decisivo encuentro.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/3721": {
+                "nombre": "John Turturro",
+                "rol": "Escritor, Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4710091": {
+                "nombre": "Giacomo Battiato",
+                "rol": "Escritor, Director"
+            },
+            "https://www.starz.com/ar/es/artist/4909515": {
+                "nombre": "Andrea Porporati",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4699024": {
+                "nombre": "Nigel Williams",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4955132": {
+                "nombre": "Damian Hardung",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/53197": {
+                "nombre": "Fabrizio Bentivoglio",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/678872": {
+                "nombre": "James Cosmo",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/6471": {
+                "nombre": "Rupert Everett",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4873787": {
+                "nombre": "Stefano Fresi",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4829368": {
+                "nombre": "Max Malatesta",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4720991": {
+                "nombre": "Richard Sammel",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52536": {
                 "titulo": "Temporada 1",
@@ -2441,6 +3481,56 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "Chasing Life sigue a April, una periodista de veintitantos a\u00f1os cuya vida finalmente se est\u00e1 arreglando. Cuando repentinamente le diagnostican c\u00e1ncer, su mundo se pone de cabeza y ella debe aprender a seguir persiguiendo la vida.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4569350": {
+                "nombre": "Italia Ricci",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4695131": {
+                "nombre": "Mary Page Keller",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4958222": {
+                "nombre": "Aisha Dee",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4690820": {
+                "nombre": "Richard Brancatisano",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4412973": {
+                "nombre": "Haley Ramm",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4933236": {
+                "nombre": "Scott Michael Foster",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4907663": {
+                "nombre": "Abhi Sinha",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/673274": {
+                "nombre": "Rebecca Schull",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5178982": {
+                "nombre": "Jessica Meraz",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/6919": {
+                "nombre": "Steven Weber",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5202449": {
+                "nombre": "Merrin Dungey",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5202445": {
+                "nombre": "Gracie Dzienny",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52450": {
                 "titulo": "Temporada 1",
@@ -2635,6 +3725,60 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama, Fantas\u00eda",
         "sinopsis": "\"Castle Rock\" lleva a los espectadores al escalofriante mundo del exitoso y aclamado Stephen King en esta serie de terror psicol\u00f3gico.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4393634": {
+                "nombre": "Lizzy Caplan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/7164": {
+                "nombre": "Tim Robbins",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4408911": {
+                "nombre": "Paul Sparks",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4941869": {
+                "nombre": "Yusra Warsama",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4954965": {
+                "nombre": "Barkhad Abdi",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4888261": {
+                "nombre": "Elsie Fisher",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4870458": {
+                "nombre": "Matthew Alan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4871165": {
+                "nombre": "Andre Holland",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/6786": {
+                "nombre": "Sissy Spacek",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4923672": {
+                "nombre": "Bill Skarsgard",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/6654": {
+                "nombre": "Scott Glenn",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4977": {
+                "nombre": "Melanie Lynskey",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4525792": {
+                "nombre": "Jane Levy",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52500": {
                 "titulo": "Temporada 1",
@@ -2764,6 +3908,24 @@
         "estudio": "\u00a9 Starz",
         "genero": "Acci\u00f3n, Crimen",
         "sinopsis": "\"Este drama lleno de testosterona trata de un grupo de veteranos de guerra insensibilizados, quienes se enfrentan a un negociador de rehenes que se niega a retroceder durante un atraco bancario frustrado\".",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5135643": {
+                "nombre": "James DeMonaco",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/3650": {
+                "nombre": "John Leguizamo",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/52766": {
+                "nombre": "Donnie Wahlberg",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4691572": {
+                "nombre": "Steve Shill",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52418": {
                 "titulo": "Temporada 1",
@@ -2821,6 +3983,24 @@
         "estudio": "\u00a9 Starz",
         "genero": "Acci\u00f3n, Crimen",
         "sinopsis": "Harry Dresden (Paul Blackthorne), detective privado con habilidades extraordinarias. Ayuda a la polic\u00eda con delitos al parecer inexplicables y sigue sus propios casos, siempre con un sentido del humor ir\u00f3nico.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4793966": {
+                "nombre": "Paul Blackthorne",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4869539": {
+                "nombre": "Valerie Cruz",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4747799": {
+                "nombre": "Conrad Coates",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/7109": {
+                "nombre": "Terrence Mann",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52412": {
                 "titulo": "Temporada 1",
@@ -2898,6 +4078,48 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "The Royals sigue las vidas de una familia real brit\u00e1nica ficticia que vive un mundo de opulencia, lujuria, esc\u00e1ndalo sexual y tradici\u00f3n regia: un mundo que tambi\u00e9n trae consigo un costo de responsabilidades, destino e intensa opini\u00f3n p\u00fablica.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/2066": {
+                "nombre": "Elizabeth Hurley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4400995": {
+                "nombre": "William Moseley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5118683": {
+                "nombre": "Alexandra Park",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4961274": {
+                "nombre": "Jake Maskall",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4981750": {
+                "nombre": "Tom Austen",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5040649": {
+                "nombre": "Genevieve Gaunt",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5188073": {
+                "nombre": "Max Brown",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/57773": {
+                "nombre": "Oliver Milburn",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/60608": {
+                "nombre": "Vincent Regan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4525982": {
+                "nombre": "Merritt Patterson",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52430": {
                 "titulo": "Temporada 1",
@@ -3136,6 +4358,96 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "El impredecible detective, Julien Baptiste, quien est\u00e1 de vacaciones con su esposa en \u00c1msterdam, apoya a su exnovia, la Jefa de Polic\u00eda de \u00c1msterdam, en una investigaci\u00f3n.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5201872": {
+                "nombre": "Harry Williams",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4690079": {
+                "nombre": "Jack Williams",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/7071": {
+                "nombre": "Tcheky Karyo",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/53240": {
+                "nombre": "Fiona Shaw",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4768478": {
+                "nombre": "Anastasia Hille",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/50114": {
+                "nombre": "Adrian Rawlins",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4753051": {
+                "nombre": "Stuart Campbell",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5203910": {
+                "nombre": "Conrad Khan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4817666": {
+                "nombre": "Dorka Gryllus",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/676148": {
+                "nombre": "Tom Hollander",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5120334": {
+                "nombre": "Alec Secareanu",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5011275": {
+                "nombre": "Anna Prochniak",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/672439": {
+                "nombre": "Nicholas Woodeson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4767254": {
+                "nombre": "Barbara Sarafian",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5201896": {
+                "nombre": "Talisa Garcia",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4705437": {
+                "nombre": "Trystan Gravelle",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5201866": {
+                "nombre": "Clare Calbraith",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5201864": {
+                "nombre": "Camille Schotte",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5201889": {
+                "nombre": "Omar Baroud",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5262843": {
+                "nombre": "B\u00f6rkur Sig\u00fe\u00f3rsson",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5125366": {
+                "nombre": "Thomas Napper",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5003859": {
+                "nombre": "Hong Khaou",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52566": {
                 "titulo": "Temporada 1",
@@ -3183,6 +4495,108 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama, Miniserie",
         "sinopsis": "Un asesino palestino est\u00e1 focaliz\u00e1ndose en israel\u00edes prominentes. Los israel\u00edes reclutan una actriz inglesa para infiltrarse en su c\u00e9lula terrorista. Esto requerir\u00e1 todo su talento interpretativo y la pondr\u00e1 en riesgo.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5200401": {
+                "nombre": "Claire Wilson",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5032877": {
+                "nombre": "Florence Pugh",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4689555": {
+                "nombre": "Alexander Skarsgard",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4705829": {
+                "nombre": "Michael Shannon",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4851103": {
+                "nombre": "Michael Moshonov",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5099011": {
+                "nombre": "Simona Brown",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4716942": {
+                "nombre": "Clare Holman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206756": {
+                "nombre": "Charif Ghattas",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5178808": {
+                "nombre": "Amir Khoury",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4521907": {
+                "nombre": "Shlomo Bar Aba",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206757": {
+                "nombre": "Daniel Litman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206760": {
+                "nombre": "Gennady Fleisher",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206766": {
+                "nombre": "Kate Sumpter",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4461488": {
+                "nombre": "Max Irons",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4810074": {
+                "nombre": "Alexander Beyer",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5148929": {
+                "nombre": "Alessandro Piavani",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5178084": {
+                "nombre": "Iben Akerlie",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206755": {
+                "nombre": "Bethany Muir",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4976644": {
+                "nombre": "Tom Hanson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4785866": {
+                "nombre": "Edward Davis",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4911389": {
+                "nombre": "Vitali Friedland",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206772": {
+                "nombre": "Roee Adar",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206774": {
+                "nombre": "Shani Erez",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206769": {
+                "nombre": "Micah Gordon",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5218103": {
+                "nombre": "Park Chan-wook",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52488": {
                 "titulo": "Temporada 1",
@@ -3230,6 +4644,44 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "Drama de acci\u00f3n basado en la historia de la vida de Ian Fleming, creador de James Bond.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4429002": {
+                "nombre": "Dominic Cooper",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4545740": {
+                "nombre": "Lara Pulver",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4855302": {
+                "nombre": "Rupert Evans",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4808439": {
+                "nombre": "Camilla Rutherford",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4694939": {
+                "nombre": "Annabelle Wallis",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/675592": {
+                "nombre": "Lesley Manville",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/50588": {
+                "nombre": "Anna Chancellor",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4706332": {
+                "nombre": "Samuel West",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4720504": {
+                "nombre": "Pip Torrens",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52528": {
                 "titulo": "Temporada 1",
@@ -3267,6 +4719,44 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama, Hist\u00f3rica",
         "sinopsis": "Adrien Brody, ganador del Premio de la Academia*, y Kristen Connolly estelarizan HOUDINI, que sigue la transformaci\u00f3n de inmigrante a superestrella del mundialmente famoso maestro escapista.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5186473": {
+                "nombre": "Bernard C. Meyer",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/57642": {
+                "nombre": "Nicholas Meyer",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/50116": {
+                "nombre": "Adrien Brody",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/870050": {
+                "nombre": "Evan Jones",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4907822": {
+                "nombre": "Kristen Connolly",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/665839": {
+                "nombre": "Tim Pigott-Smith",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4984342": {
+                "nombre": "Tom Benedict Knight",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4989322": {
+                "nombre": "Shaun Williamson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/511994": {
+                "nombre": "Uli Edel",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52454": {
                 "titulo": "Temporada 1",
@@ -3294,6 +4784,36 @@
         "estudio": "\u00a9 Starz",
         "genero": "Misterio/Suspenso",
         "sinopsis": "\"Rosemary's Baby\" es la nueva versi\u00f3n de la novela de superventas de Ira levin, que sigue a una mujer embarazada quien descubre una trama siniestra alrededor de su beb\u00e9 no nacido.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4717317": {
+                "nombre": "Scott Abbott",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/2814698": {
+                "nombre": "Zoe Saldana",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5087839": {
+                "nombre": "Patrick J. Adams",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/667578": {
+                "nombre": "Jason Isaacs",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/972": {
+                "nombre": "Carole Bouquet",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4692004": {
+                "nombre": "Christina Cole",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/40": {
+                "nombre": "Agnieszka Holland",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52428": {
                 "titulo": "Temporada 1",
@@ -3321,6 +4841,28 @@
         "estudio": "\u00a9 Starz",
         "genero": "Crimen, Drama",
         "sinopsis": "Un asesino serial demente se burla de un polic\u00eda retirado con una serie de cartas y correos electr\u00f3nicos espeluznantes.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5086515": {
+                "nombre": "David E. Kelley",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/51241": {
+                "nombre": "Brendan Gleeson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707021": {
+                "nombre": "Harry Treadaway",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4091": {
+                "nombre": "Kelly Lynch",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4687950": {
+                "nombre": "Jack Bender",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52424": {
                 "titulo": "Temporada 1",
@@ -3502,6 +5044,56 @@
         "estudio": "\u00a9 Starz",
         "genero": "Crimen, Drama",
         "sinopsis": "Basado en la novela polic\u00edaca m\u00e1s vendida de todos los tiempos por Agatha Christie. Ocho extra\u00f1os son atra\u00eddos a una isla aislada en la costa de Devon, donde pronto queda claro que han sido convocados para expiar sus cr\u00edmenes pasados.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4693945": {
+                "nombre": "Sarah Phelps",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4508447": {
+                "nombre": "Douglas Booth",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1056": {
+                "nombre": "Charles Dance",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4748494": {
+                "nombre": "Maeve Dermody",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4373320": {
+                "nombre": "Burn Gorman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4905110": {
+                "nombre": "Anna Maxwell Martin",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/6581": {
+                "nombre": "Sam Neill",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5212": {
+                "nombre": "Miranda Richardson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/674353": {
+                "nombre": "Toby Stephens",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5426": {
+                "nombre": "Noah Taylor",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4888280": {
+                "nombre": "Aidan Turner",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4929864": {
+                "nombre": "Craig Viveiros",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52530": {
                 "titulo": "Temporada 1",
@@ -3534,6 +5126,160 @@
         "estudio": "\u00a9 Sony",
         "genero": "Drama, Hist\u00f3rica",
         "sinopsis": "Relata la historia de Enrique VIII durante los apote\u00f3sicos primeros a\u00f1os de su reinado de 40 a\u00f1os en Inglaterra. Tambi\u00e9n ahonda en las relaciones pol\u00edticas de Enrique VIII, incluyendo aquellas con el fil\u00f3sofo Sir Tom\u00e1s Moro y el cardenal Wolsey.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5206894": {
+                "nombre": "Jonathan Rhys-Meyers",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707089": {
+                "nombre": "Tamzin Merchant",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4694285": {
+                "nombre": "Joss Stone",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4326018": {
+                "nombre": "Henry Cavill",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4698560": {
+                "nombre": "Sarah Bolger",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5188073": {
+                "nombre": "Max Brown",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206885": {
+                "nombre": "Andrew McNair",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4703515": {
+                "nombre": "Anthony Brophy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4934523": {
+                "nombre": "Emma Hamilton",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206902": {
+                "nombre": "Simon Ward",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4598838": {
+                "nombre": "Rod Hallett",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4869338": {
+                "nombre": "Frank McCusker",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206893": {
+                "nombre": "Joanne King",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4710176": {
+                "nombre": "Lothaire Bluteau",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4386571": {
+                "nombre": "David Patrick O'hara",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4914339": {
+                "nombre": "Torrance Coombs",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206892": {
+                "nombre": "Guy Carleton",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/54967": {
+                "nombre": "Joely Richardson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206903": {
+                "nombre": "Suzy Lawlor",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4964093": {
+                "nombre": "Gemma-Leah Devereux",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4854407": {
+                "nombre": "Catherine Steadman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4459198": {
+                "nombre": "Max von Sydow",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/311822": {
+                "nombre": "James Frain",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/663090": {
+                "nombre": "Gerard McSorley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4694939": {
+                "nombre": "Annabelle Wallis",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/851282": {
+                "nombre": "Alan Van Sprang",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4691926": {
+                "nombre": "Kevin Doyle",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4964172": {
+                "nombre": "Colm Wilkinson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4780752": {
+                "nombre": "David Wilmot",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4754545": {
+                "nombre": "Mark Hildreth",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206890": {
+                "nombre": "Gavin O'Connor",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4792270": {
+                "nombre": "Peter Gaynor",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5007595": {
+                "nombre": "Rebekah Wainwright",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/3356": {
+                "nombre": "Jeremy Northam",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/59879": {
+                "nombre": "Steven Waddington",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/2779": {
+                "nombre": "Henry Czerny",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/835075": {
+                "nombre": "Nick Dunning",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4409469": {
+                "nombre": "Natalie Dormer",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52546": {
                 "titulo": "Temporada 1",
@@ -3762,6 +5508,52 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "En 1942, en la Francia ocupada, el U-612 est\u00e1 listo para su primer viaje, dirigi\u00e9ndose a la guerra que es cada vez m\u00e1s violenta, con su joven tripulaci\u00f3n y su nuevo capit\u00e1n, Klaus Hoffman.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5186578": {
+                "nombre": "Tony Saint",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4708072": {
+                "nombre": "Vicky Krieps",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4809384": {
+                "nombre": "Tom Wlaschiha",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4914240": {
+                "nombre": "Rick Okon",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5017396": {
+                "nombre": "August Wittgenstein",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4926851": {
+                "nombre": "Stefan Konarske",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4878822": {
+                "nombre": "Franz Dinda",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4985050": {
+                "nombre": "Leonard Scheicher",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4393634": {
+                "nombre": "Lizzy Caplan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4852204": {
+                "nombre": "Matthias Glasner",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5149948": {
+                "nombre": "Rick Ostermann",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52518": {
                 "titulo": "Temporada 1",
@@ -3866,6 +5658,172 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "En el contexto \u00e9pico de Francia en una \u00e9poca de disturbios civiles, \"Les Mis\u00e9rables\" es la historia de Jean Valjean, un ex convicto incapaz de escapar de la sombra de su vida pasada.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4693824": {
+                "nombre": "Andrew Davies",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/52688": {
+                "nombre": "Dominic West",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4343346": {
+                "nombre": "David Oyelowo",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707756": {
+                "nombre": "Lily Collins",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206868": {
+                "nombre": "David Bradley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1696": {
+                "nombre": "Derek Jacobi",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4689776": {
+                "nombre": "Adeel Akhtar",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4962354": {
+                "nombre": "Johnny Flynn",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4939561": {
+                "nombre": "Henry Lloyd-Hughes",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4773373": {
+                "nombre": "Emma Fielding",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/713824": {
+                "nombre": "Donald Sumpter",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206867": {
+                "nombre": "Charlotte Dylan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5274279": {
+                "nombre": "Ayoola Smart",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4783565": {
+                "nombre": "Matthew Steer",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4691265": {
+                "nombre": "Reece Ritchie",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4845742": {
+                "nombre": "Hayley Carmichael",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4398501": {
+                "nombre": "Olivia Colman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4750702": {
+                "nombre": "Kathryn Hunter",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4753564": {
+                "nombre": "Lorcan Cranitch",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206870": {
+                "nombre": "Erin Doherty",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5124163": {
+                "nombre": "Lily Newmark",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5214347": {
+                "nombre": "Natalie Simpson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206879": {
+                "nombre": "Mailow Defoy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206883": {
+                "nombre": "Sienna Barnes",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206862": {
+                "nombre": "Amani Johnson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206884": {
+                "nombre": "Woody Norman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/3264783": {
+                "nombre": "Enzo Cilenti",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206876": {
+                "nombre": "Lia Giovanelli",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/2068921": {
+                "nombre": "Georgie Glen",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4729774": {
+                "nombre": "Anna Calder-Marshall",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5185397": {
+                "nombre": "Josh O'Connor",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5051370": {
+                "nombre": "Ellie Bamber",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206871": {
+                "nombre": "Erin Kellyman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206882": {
+                "nombre": "Reece Yates",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5191760": {
+                "nombre": "Alex Jarrett",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5210403": {
+                "nombre": "Joseph Quinn",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5274459": {
+                "nombre": "Archie Madekwe",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5098538": {
+                "nombre": "Turlough Convery",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4813914": {
+                "nombre": "Angela Wynter",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4701171": {
+                "nombre": "Josef Altin",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4370578": {
+                "nombre": "Tom Shankland",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52526": {
                 "titulo": "Temporada 1",
@@ -3923,6 +5881,40 @@
         "estudio": "\u00a9 Starz",
         "genero": "Comedia, Deportes",
         "sinopsis": "En Blue Mountain State, el campus universitario m\u00e1s pendenciero del pa\u00eds, los atletas aprenden los altibajos de ser unos de los pocos elegidos que son venerados en el campus.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4709913": {
+                "nombre": "Ed Marinaro",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4975199": {
+                "nombre": "Darin Brooks",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4903113": {
+                "nombre": "Chris Romano",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4834451": {
+                "nombre": "Alan Ritchson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4396779": {
+                "nombre": "Page Kennedy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4878180": {
+                "nombre": "Frankie Shaw",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4412473": {
+                "nombre": "Sam Jones III",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5186394": {
+                "nombre": "Gabrielle Dennis",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52502": {
                 "titulo": "Temporada 1",
@@ -4149,6 +6141,28 @@
         "estudio": "\u00a9 Starz",
         "genero": "Docudrama, Drama",
         "sinopsis": "De los escritores Nick Antosca (\"Channel Zero\") y Michelle Dean llega \"The Act\", una serie psicol\u00f3gica y antol\u00f3gica de cr\u00edmenes reales que cuenta las ins\u00f3litas historias detr\u00e1s de actos criminales verdaderos.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5548": {
+                "nombre": "Patricia Arquette",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4690052": {
+                "nombre": "Joey King",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/51676": {
+                "nombre": "Chloe Sevigny",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4388771": {
+                "nombre": "AnnaSophia Robb",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4344690": {
+                "nombre": "Calum Worthy",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52538": {
                 "titulo": "Temporada 1",
@@ -4206,6 +6220,68 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama, De terror",
         "sinopsis": "Mick Taylor regresa para causar estragos en Wolf Creek. Excepto que esta vez una v\u00edctima se defiende. La \u00fanica sobreviviente de la masacre de su familia, la estudiante universitaria Eve Thorogood, promete llevar al asesino ante la justicia.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5192299": {
+                "nombre": "Felicity Packard",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4957607": {
+                "nombre": "Lucy Fry",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4688839": {
+                "nombre": "John Jarratt",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4494679": {
+                "nombre": "Dustin Clare",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4472833": {
+                "nombre": "Eddie Baroo",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5208246": {
+                "nombre": "Alicia Gardiner",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4817415": {
+                "nombre": "Andy McPhee",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4812160": {
+                "nombre": "Richard Cawthorne",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5109932": {
+                "nombre": "Jake Ryan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5208250": {
+                "nombre": "Liana Cornell",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5035071": {
+                "nombre": "Matt Levett",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5208248": {
+                "nombre": "Felicity McKay",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4699764": {
+                "nombre": "Deborah Mailman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5208247": {
+                "nombre": "Elsa Cocquerel",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4704217": {
+                "nombre": "Greg McLean",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52520": {
                 "titulo": "Temporada 1",
@@ -4290,6 +6366,40 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Drama",
         "sinopsis": "En la profundidad de Mississippi Delta yace un oasis de diversi\u00f3n y glamour en un momento dif\u00edcil para la existencia humana donde la belleza es dif\u00edcil de encontrar.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4704581": {
+                "nombre": "Brandee Evans",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5199509": {
+                "nombre": "Nicco Annan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5199510": {
+                "nombre": "Shannon Thornton",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5132024": {
+                "nombre": "Elarica Johnson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5208983": {
+                "nombre": "Skyler Joy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5208981": {
+                "nombre": "J. Alphonse Nicholson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5208982": {
+                "nombre": "Parker Sawyers",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4831007": {
+                "nombre": "Morocco Omari",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/52576": {
                 "titulo": "Temporada 1",
@@ -4352,6 +6462,48 @@
         "estudio": "\u00a9 Starz",
         "genero": "Crimen, Drama",
         "sinopsis": "Este drama sobre una familia criminal sigue a un adolescente quien, luego de la muerte de su madre, se muda con sus parientes independientes a un balneario del sur de California.\nAtra\u00eddo por la vida de excesos que llevan, pronto descubre que esta est\u00e1 financiada por actividades criminales y que unirse a la familia viene con m\u00e1s peligro de lo que podr\u00eda estar listo para manejar.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/111628": {
+                "nombre": "Shawn Hatosy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5044136": {
+                "nombre": "Ben Robson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4882344": {
+                "nombre": "Jake Weary",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4708918": {
+                "nombre": "Finn Cole",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206636": {
+                "nombre": "Sohvi Rodriguez",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/2078": {
+                "nombre": "Ellen Barkin",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5123339": {
+                "nombre": "Molly Gordon",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4957431": {
+                "nombre": "Carolina Guerra",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4698767": {
+                "nombre": "Scott Speedman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4701417": {
+                "nombre": "Daniella Alonso",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/56884": {
                 "titulo": "Temporada 1",
@@ -4635,6 +6787,48 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "Esta historia original de DC sigue al legendario mayordomo de Bruce Wayne, Alfred Pennyworth, exsoldado brit\u00e1nico del Servicio A\u00e9reo Especial que funda una empresa de seguridad y va a trabajar con el joven multimillonario Thomas Wayne, que a\u00fan no es el padre multimillonario de Bruce, en la d\u00e9cada del 60 en Londres.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4943160": {
+                "nombre": "Bruno Heller",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5206607": {
+                "nombre": "Jack Bannon",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4904336": {
+                "nombre": "Ben Aldridge",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4859194": {
+                "nombre": "Paloma Faith",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5189276": {
+                "nombre": "Hainsley Lloyd Bennett",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5180589": {
+                "nombre": "Ryan Fletcher",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/54486": {
+                "nombre": "Jason Flemyng",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4693485": {
+                "nombre": "Polly Walker",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5194308": {
+                "nombre": "Emma Corrin",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/52162": {
+                "nombre": "Danny Cannon",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/57150": {
                 "titulo": "Temporada 1",
@@ -4769,6 +6963,32 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Crimen, Drama",
         "sinopsis": "Ambientada en el bello, pero sombr\u00edo, Cabo Cod, esta serie, narra el camino de una mujer para dejar las drogas y el alcohol. Pero todo es eclipsado por una investigaci\u00f3n por asesinato.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4940186": {
+                "nombre": "Monica Raymund",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4390871": {
+                "nombre": "James Badge Dale",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4888191": {
+                "nombre": "Shane Harper",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5001795": {
+                "nombre": "Atkins Estimond",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4394203": {
+                "nombre": "Amaury Nolasco",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5126673": {
+                "nombre": "Dohn Norwood",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/58898": {
                 "titulo": "Temporada 1",
@@ -4863,6 +7083,64 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "Del productor ejecutivo de \u00e9xitos David Heyman y NBCUniversal International Studios llega \"La captura\", un oportuno thriller que explora cuestiones urgentes acerca de la vigilancia y la desinformaci\u00f3n.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4690089": {
+                "nombre": "Ben Chanan",
+                "rol": "Escritor, Director"
+            },
+            "https://www.starz.com/ar/es/artist/4492406": {
+                "nombre": "Holliday Grainger",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707718": {
+                "nombre": "Callum Turner",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4445498": {
+                "nombre": "Laura Haddock",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4745728": {
+                "nombre": "Ben Miles",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/846738": {
+                "nombre": "Barry Ward",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4793976": {
+                "nombre": "Cavan Clerkin",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/869807": {
+                "nombre": "Ginny Holder",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/712366": {
+                "nombre": "Ralph Ineson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4767227": {
+                "nombre": "Nigel Lindsay",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4706257": {
+                "nombre": "Paul Ritter",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5063839": {
+                "nombre": "Sharon Rooney",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206637": {
+                "nombre": "Sophia Brown",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5206631": {
+                "nombre": "Miranda Heath",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/57771": {
                 "titulo": "Temporada 1",
@@ -4910,6 +7188,64 @@
         "estudio": "\u00a9 Starz",
         "genero": "Comedia, Drama",
         "sinopsis": "The Great es un drama c\u00f3mico y sat\u00edrico, ocasionalmente basado en hechos hist\u00f3ricos, sobre c\u00f3mo Catalina la Grande pas\u00f3 de ser una forastera a la gobernante mujer con el reinado m\u00e1s largo de la historia de Rusia. Una historia muy moderna sobre el pasado.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4371168": {
+                "nombre": "Elle Fanning",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/2067020": {
+                "nombre": "Nicholas Hoult",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5008401": {
+                "nombre": "Phoebe Fox",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707375": {
+                "nombre": "Adam Godley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4992903": {
+                "nombre": "Gwilym Lee",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5013886": {
+                "nombre": "Charity Wakefield",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4706744": {
+                "nombre": "Douglas Hodge",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4859235": {
+                "nombre": "Sacha Dhawan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5017535": {
+                "nombre": "Belinda Bromilow",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5020647": {
+                "nombre": "Sebastian De Souza",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5250884": {
+                "nombre": "Bayo Gbadamosi",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5250890": {
+                "nombre": "Louis Hynes",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5250888": {
+                "nombre": "Florence Keith-Roach",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5278541": {
+                "nombre": "Danusia Samal",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/58928": {
                 "titulo": "Temporada 1",
@@ -4982,6 +7318,84 @@
         "estudio": "\u00a9 STARZ",
         "genero": "Crimen, Drama",
         "sinopsis": "\"El Fantasma\" sigue a Tariq malabareando sus operaciones de drogas, calificaciones, vida amorosa y familia. Para  evitar el destino de su padre, debe convertirse en \u00e9l, pero siendo mejor.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4942524": {
+                "nombre": "Michael Rainey Jr.",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4366615": {
+                "nombre": "Shane Johnson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5251082": {
+                "nombre": "Lovell Adams-Gray",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5251078": {
+                "nombre": "Daniel Bellomy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4394753": {
+                "nombre": "Paige Hurd",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5251081": {
+                "nombre": "LaToya Tonodeo",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4705615": {
+                "nombre": "Mary J. Blige",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5155111": {
+                "nombre": "Gianni Paolo",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4704537": {
+                "nombre": "Woody McClain",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/2066278": {
+                "nombre": "Method Man",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/55989": {
+                "nombre": "Larenz Tate",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5028177": {
+                "nombre": "Melanie Liburd",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4798725": {
+                "nombre": "Daniel Sunjata",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5299716": {
+                "nombre": "Berto Colon",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5299715": {
+                "nombre": "Alix Lapri",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4888465": {
+                "nombre": "Paton Ashbrook",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5251080": {
+                "nombre": "Justin Marcel McManus",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4442548": {
+                "nombre": "Naturi Naughton",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4878747": {
+                "nombre": "Shalim Ortiz",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/59103": {
                 "titulo": "Temporada 1",
@@ -5071,6 +7485,68 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "\"Run the World\" es una serie de ocho episodios de media hora de duraci\u00f3n que cuenta la historia de un grupo de mujeres negras, vibrantes y leales mejores amigas, que trabajan, viven y juegan en Harlem mientras se esfuerzan por dominar el mundo. En esencia, es un programa femenino sin pelos en la lengua que trata de una amistad envidiable y de no s\u00f3lo sobrevivir, sino de progresar juntas.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5235612": {
+                "nombre": "Leigh Davenport",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5276992": {
+                "nombre": "Nastaran Dibai",
+                "rol": "Escritor, Director"
+            },
+            "https://www.starz.com/ar/es/artist/5280380": {
+                "nombre": "Njeri Brown",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5281672": {
+                "nombre": "Niya Palmer",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5283931": {
+                "nombre": "Jess Pineda",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4441829": {
+                "nombre": "Amber Stevens",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5275873": {
+                "nombre": "Amber Stevens West",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5058033": {
+                "nombre": "Andrea Bordeaux",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4708604": {
+                "nombre": "Bresha Webb",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4955412": {
+                "nombre": "Tosin Morohunfola",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4820682": {
+                "nombre": "Stephen Bishop",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5078643": {
+                "nombre": "Corbin Reid",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4988078": {
+                "nombre": "Justin Tipping",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/57423": {
+                "nombre": "Millicent Shelton",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4707942": {
+                "nombre": "Jen\u00e9e LaMarque",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/62136": {
                 "titulo": "Temporada 1",
@@ -5133,6 +7609,40 @@
         "estudio": "\u00a9 Starz",
         "genero": "Crimen, Drama",
         "sinopsis": "Situada al Sur de Jamaica, en Queens, en 1991, \"Raising Kanan\" es una precuela de la franquicia original \"Power\". Este drama familiar trata del cambio de edad de Kanan Stark, un distribuidor de coca\u00edna con una red de vendedores en la Ciudad de Nueva York.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5229810": {
+                "nombre": "Mekai Curtis",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5286796": {
+                "nombre": "Patina Miller",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5170356": {
+                "nombre": "London Brown",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4959083": {
+                "nombre": "Malcolm Mays",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5272617": {
+                "nombre": "Joey Badass",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/57787": {
+                "nombre": "Omar Epps",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5196289": {
+                "nombre": "Hailey Kilgore",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5287619": {
+                "nombre": "Toby Sandeman",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/63242": {
                 "titulo": "Temporada 1",
@@ -5200,6 +7710,20 @@
         "estudio": "\u00a9 Starz",
         "genero": "Crimen, Drama",
         "sinopsis": "Despu\u00e9s de un mortal ataque terrorista en los Juegos Ol\u00edmpicos de 1996, los agentes del FBI cazan a un escurridizo atacante en serie, mientras que un hombre inocente acusado injustamente, lucha por limpiar su nombre.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4708061": {
+                "nombre": "Cameron Britton",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/2814701": {
+                "nombre": "Sam Worthington",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4323735": {
+                "nombre": "Chris Noth",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/59064": {
                 "titulo": "Temporada 2",
@@ -5267,6 +7791,12 @@
         "estudio": "\u00a9 Starz",
         "genero": "Documental, Drama",
         "sinopsis": "La asombrosa historia de la relaci\u00f3n sin precedentes entre la aclamada autora y periodista Jillian Lauren y el asesino en serie m\u00e1s prol\u00edfico de la historia de Estados Unidos, Sam Little.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4701530": {
+                "nombre": "Joe Berlinger",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/62138": {
                 "titulo": "Temporada 1",
@@ -5314,6 +7844,12 @@
         "estudio": "\u00a9 MMXX Lions Gate Television Inc.",
         "genero": "Documental",
         "sinopsis": "Esta docuserie de la directora y productora Cecilia Peck y la productora y editora Inbal Lessner \u2014quienes colaboraron en \"Brave Miss World\", nominada al Emmy\u00ae\u2014 sigue el peligroso viaje de India Oxenberg a trav\u00e9s del culto de esclavizaci\u00f3n sexual NXVIM.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/678787": {
+                "nombre": "Cecilia Peck",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/59968": {
                 "titulo": "Temporada 1",
@@ -5351,6 +7887,72 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama, Rom\u00e1ntica",
         "sinopsis": "Desde la escuela a la universidad, Normal People sigue a Connell y Marianne mientras entretejen sus vidas en un programa que explora lo complicado que puede ser el amor joven.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5116556": {
+                "nombre": "Alice Birch",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5207913": {
+                "nombre": "Sally Rooney",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5162712": {
+                "nombre": "Daisy Edgar-Jones",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5207912": {
+                "nombre": "Paul Mescal",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5207908": {
+                "nombre": "Eliot Salt",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5207910": {
+                "nombre": "India Mullen",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4727479": {
+                "nombre": "Aislin McGuckin",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5259979": {
+                "nombre": "Desmond Eastwood",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4870169": {
+                "nombre": "Sarah Greene",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5125646": {
+                "nombre": "Fionn O'Shea",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5061748": {
+                "nombre": "Leah McNamara",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4893632": {
+                "nombre": "Eanna Hardwicke",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5020647": {
+                "nombre": "Sebastian De Souza",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5164368": {
+                "nombre": "Kwaku Fortune",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4700633": {
+                "nombre": "Lenny Abrahamson",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4701331": {
+                "nombre": "Hettie Macdonald",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/60084": {
                 "titulo": "Temporada 1",
@@ -5433,6 +8035,28 @@
         "estudio": "\u00a9 Starz",
         "genero": "Comedia, Drama",
         "sinopsis": "Una re-imaginaci\u00f3n de la novela de 1995 de Nick Hornby, \"High Fidelity\" se centra en Rob, una due\u00f1a de una tienda de discos que recuerda las relaciones pasadas a trav\u00e9s de la m\u00fasica y la cultura pop.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4699723": {
+                "nombre": "Zo\u00eb Kravitz",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5000405": {
+                "nombre": "Da'vine Joy Randolph",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5212549": {
+                "nombre": "David H. Holmes",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4983504": {
+                "nombre": "Jake Lacy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5105440": {
+                "nombre": "Kingsley Ben-Adir",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/60253": {
                 "titulo": "Temporada 1",
@@ -5505,6 +8129,44 @@
         "estudio": "\u00a9 Starz",
         "genero": "Acci\u00f3n, Crimen",
         "sinopsis": "Tras el asesinato del l\u00edder de una banda criminal, el vac\u00edo de poder amenaza la fr\u00e1gil paz entre la compleja red de pandillas que operan en las calles de Londres.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5214741": {
+                "nombre": "Sope Dirisu",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4873989": {
+                "nombre": "Joe Cole",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1319": {
+                "nombre": "Colm Meaney",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5201391": {
+                "nombre": "Lucian Msamati",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4692365": {
+                "nombre": "Michelle Fairley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5216018": {
+                "nombre": "Asif Raza Mir",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5253988": {
+                "nombre": "Parth Thakerar",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5038106": {
+                "nombre": "Aksel Ustun",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4884418": {
+                "nombre": "Valene Kane",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/60531": {
                 "titulo": "Temporada 1",
@@ -5572,6 +8234,48 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "Dos hermanos y rivales en el ring - uno el villano o \u201cheel\u201d, el otro el h\u00e9roe o \u201cface\u201d -se disputan el triunfo en la liga de lucha libre de su padre fallecido, buscan la atenci\u00f3n nacional hacia un peque\u00f1o pueblo de Georgia.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4835374": {
+                "nombre": "Stephen Amell",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707321": {
+                "nombre": "Kelli Berglund",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5287722": {
+                "nombre": "Roxton Garcia",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5287719": {
+                "nombre": "James Harrison Jr.",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5287720": {
+                "nombre": "Melissa LeEllen",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4409555": {
+                "nombre": "Alexander Ludwig",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5287689": {
+                "nombre": "Alison Luff",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/673826": {
+                "nombre": "Joel Murray",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5287721": {
+                "nombre": "Robby Ramos",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5287730": {
+                "nombre": "Nigel Crocker",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/63031": {
                 "titulo": "Temporada 1",
@@ -5629,6 +8333,40 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "Sexo. Poder. Asesinato. Am\u00e9n. Jeremy Irons, ganador del Oscar\u00ae, protagoniza esta nueva y \u00e9pica serie original de Showtime, The Borgias, la historia explosiva de la primera gran familia del crimen de la historia.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/3351": {
+                "nombre": "Jeremy Irons",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5037147": {
+                "nombre": "Fran\u00e7ois Arnaud",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4510532": {
+                "nombre": "David Oakes",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4492406": {
+                "nombre": "Holliday Grainger",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1318": {
+                "nombre": "Colm Feore",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1696": {
+                "nombre": "Derek Jacobi",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4689126": {
+                "nombre": "Joanne Whalley",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4498729": {
+                "nombre": "Lotte Verbeek",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/61191": {
                 "titulo": "Temporada 1",
@@ -5805,6 +8543,56 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "Penny Dreadful es un thriller psicol\u00f3gico lleno de un oscuro misterio y de suspenso, donde los demonios personales del pasado pueden ser m\u00e1s fuertes que los vampiros, los esp\u00edritus malignos y las bestias inmortales.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5213981": {
+                "nombre": "John Logan",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/7171": {
+                "nombre": "Timothy Dalton",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4355432": {
+                "nombre": "Eva Green",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1267139": {
+                "nombre": "Josh Hartnett",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4800170": {
+                "nombre": "Reeve Carney",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4825524": {
+                "nombre": "Billie Piper",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4934924": {
+                "nombre": "Danny Sapani",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707021": {
+                "nombre": "Harry Treadaway",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5195924": {
+                "nombre": "Rory Kinnear",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/611890": {
+                "nombre": "Patti Lupone",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/7521": {
+                "nombre": "Wes Studi",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5026137": {
+                "nombre": "Shazad Latif",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/61185": {
                 "titulo": "Temporada 1",
@@ -5971,6 +8759,40 @@
         "estudio": "\u00a9 Starz",
         "genero": "Crimen, Drama",
         "sinopsis": "\"The Night Manager\" es un apasionante thriller de espionaje,  muestra las andanzas del ex soldado ingl\u00e9s Jonathan Pine (Hiddleston), que, tras incorporarse al servicio de inteligencia brit\u00e1nico, debe infiltrarse en el c\u00edrculo de confianza del peligroso traficante de armas Richard Onslow Roper (Laurie). Debido a esto, Pine deber\u00e1 convertirse en todo un criminal.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4882622": {
+                "nombre": "David Farr",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4353860": {
+                "nombre": "Tom Hiddleston",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/674314": {
+                "nombre": "Hugh Laurie",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4398501": {
+                "nombre": "Olivia Colman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/676148": {
+                "nombre": "Tom Hollander",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4937123": {
+                "nombre": "Elizabeth Debicki",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/845209": {
+                "nombre": "David Harewood",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/845594": {
+                "nombre": "Susanne Bier",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/61269": {
                 "titulo": "Temporada 1",
@@ -6018,6 +8840,40 @@
         "estudio": "\u00a9 Starz",
         "genero": "Crimen, Drama",
         "sinopsis": "Basada en el exitoso podcast de Wondery, Dr. Death cuanta la impactante historia verdadera del Dr. Christopher Duntsch (Joshua Jackson), un joven neurocirujano aparentemente brillante con un consultorio m\u00e9dico pr\u00f3spero. Pero no todo es lo que parece.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/124": {
+                "nombre": "Alec Baldwin",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1170": {
+                "nombre": "Christian Slater",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/55435": {
+                "nombre": "Joshua Jackson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/673193": {
+                "nombre": "Carrie Preston",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4388771": {
+                "nombre": "AnnaSophia Robb",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4891869": {
+                "nombre": "Maryann Plunkett",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4902639": {
+                "nombre": "Dominic Burgess",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4968708": {
+                "nombre": "Hubert Point-Du Jour",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/62473": {
                 "titulo": "Temporada 1",
@@ -6080,6 +8936,44 @@
         "estudio": "\u00a9 Copyright \u00a9 2020 Haut Et Court TV / Spiro Films ",
         "genero": "Drama, Guerra",
         "sinopsis": "La hermana de Antoine lleva varios a\u00f1os declarada muerta, pero \u00e9l est\u00e1 convencido de que est\u00e1 viva. Viaja a Siria, donde las combatientes kurdas luchan contra ISIS.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5205593": {
+                "nombre": "Oded Ruskin",
+                "rol": "Escritor, Director"
+            },
+            "https://www.starz.com/ar/es/artist/5219262": {
+                "nombre": "Amit Cohen",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5037246": {
+                "nombre": "F\u00e9lix Moati",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707374": {
+                "nombre": "Melanie Thierry",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5153022": {
+                "nombre": "Souheila Yacoub",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5209645": {
+                "nombre": "Dean Ridge",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/54367": {
+                "nombre": "James Purefoy",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5219265": {
+                "nombre": "James Krishna Floyd",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4820484": {
+                "nombre": "Julia Faure",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/61941": {
                 "titulo": "Temporada 1",
@@ -6142,6 +9036,68 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "The Stand es la visi\u00f3n apocal\u00edptica de Stephen King de un mundo asolado por una plaga y envuelto en una lucha b\u00e1sica entre el bien y el mal. El destino de la humanidad descansa en los fr\u00e1giles hombros de la Madre Abagail, de 108 a\u00f1os, y algunos sobrevivientes. Sus peores pesadillas se encarnan en un hombre con una sonrisa letal y poderes atroces: Randall Flagg, el Hombre Oscuro.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/161727": {
+                "nombre": "James Marsden",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4394042": {
+                "nombre": "Amber Heard",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5055507": {
+                "nombre": "Odessa Young",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5099054": {
+                "nombre": "Henry Zaga",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/7530": {
+                "nombre": "Whoopi Goldberg",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5093581": {
+                "nombre": "Jovan Adepo",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5001501": {
+                "nombre": "Owen Teague",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4399089": {
+                "nombre": "Brad William Henke",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4798725": {
+                "nombre": "Daniel Sunjata",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4689555": {
+                "nombre": "Alexander Skarsgard",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4688770": {
+                "nombre": "Eion Bailey",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4900800": {
+                "nombre": "Katherine McNamara",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/3465031": {
+                "nombre": "Hamish Linklater",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/53753": {
+                "nombre": "Greg Kinnear",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4968971": {
+                "nombre": "Josh Boone",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/61995": {
                 "titulo": "Temporada 1",
@@ -6209,6 +9165,52 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama, Rom\u00e1ntica",
         "sinopsis": "Una Adaptaci\u00f3n de la infame conlecci\u00f3n de cuentos er\u00f3ticos de Anais Nin.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5242064": {
+                "nombre": "Sophia Al-Maria",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4407025": {
+                "nombre": "Juno Temple",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5244226": {
+                "nombre": "Yumna Marwan",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5119214": {
+                "nombre": "Hugh Skinner",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5202217": {
+                "nombre": "Raphael Acloque",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/54570": {
+                "nombre": "Jean-Marc Barr",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4693749": {
+                "nombre": "Rossy De Palma",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4944160": {
+                "nombre": "Kamel Labroudi",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4469415": {
+                "nombre": "David Costabile",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4903604": {
+                "nombre": "Amy Landecker",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4707870": {
+                "nombre": "Stacie Passon",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/62169": {
                 "titulo": "Temporada 1",
@@ -6256,6 +9258,24 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "Avshalom, un m\u00fasico exitoso, se traslada a Par\u00eds cuando su esposa Annabelle consigue un trabajo all\u00ed. Son recibidos por ataques terroristas y el sue\u00f1o de un a\u00f1o rom\u00e1ntico en el extranjero se vuelve una pesadilla.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5180417": {
+                "nombre": "H\u00e9loise Godet",
+                "rol": "Escritor, Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5248311": {
+                "nombre": "Eli Ben-David",
+                "rol": "Escritor, Actor, Director"
+            },
+            "https://www.starz.com/ar/es/artist/5248314": {
+                "nombre": "Ori Elon",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5248313": {
+                "nombre": "Ilay Lax",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/62279": {
                 "titulo": "Temporada 1",
@@ -6323,6 +9343,32 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "\u201cBlindspotting\u201d es protagonizada por Ashley que vive en Oakland, donde su novio y padre de su hijo es encarcelado; esta situaci\u00f3n la deja en la nada y le produce una crisis existencial.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5211334": {
+                "nombre": "Jasmine Cephas Jones",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5281308": {
+                "nombre": "Benjamin Earl Turner",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5287620": {
+                "nombre": "Atticus Woodward",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5281306": {
+                "nombre": "Jaylen Barron",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5281307": {
+                "nombre": "Candace Nicholas-Lippman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/2760": {
+                "nombre": "Helen Hunt",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/62638": {
                 "titulo": "Temporada 1",
@@ -6380,6 +9426,68 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "\"BMF\" sigue la historia de dos hermanos que crearon la \"Black Mafia Family\", la red de distribuci\u00f3n de drogas m\u00e1s promienente en la historia Americana.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4695432": {
+                "nombre": "Russell Hornsby",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5056887": {
+                "nombre": "Ajiona Alexus",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5288972": {
+                "nombre": "Demetrius 'Lil Meech' Flenory",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4950655": {
+                "nombre": "Jon Chaffin",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5288975": {
+                "nombre": "Tyshon Freeman",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5288973": {
+                "nombre": "Eric Kofi-Abrefa",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5288974": {
+                "nombre": "Jasun Jabbar Wardlaw Jr.",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/870169": {
+                "nombre": "Michole White",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5141196": {
+                "nombre": "Shondalia White",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5215696": {
+                "nombre": "Sydney Mitchell",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4705108": {
+                "nombre": "Lil' Zane",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5293163": {
+                "nombre": "Antwar Walker",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5293165": {
+                "nombre": "Myles Bullock",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5293164": {
+                "nombre": "Christian Robinson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5293423": {
+                "nombre": "Da'Vinchi",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/64369": {
                 "titulo": "Temporada 1",
@@ -6432,6 +9540,16 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama, M\u00fasica",
         "sinopsis": "Basada en las pel\u00edculas favoritas de los fans, la serie Step Up es un drama emocionante, sexy, y lleno de m\u00fasica sobre bailarines en una escuela de artes esc\u00e9nicas comtempor\u00e1neas.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4777636": {
+                "nombre": "Naya Rivera",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/668925": {
+                "nombre": "Faizon Love",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/62778": {
                 "titulo": "High Water",
@@ -6556,6 +9674,364 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "La historia comienza en el a\u00f1o 1557 cuando Mary, Reina de Escocia, tiene que partir del convento en el que viv\u00eda hacia Francia, para contraer matrimonio con el Pr\u00edncipe Francis II de Francia y as\u00ed sellar una alianza entre los dos pa\u00edses.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/864864": {
+                "nombre": "Charles Grant Craig",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4505606": {
+                "nombre": "Doris Egan",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4699729": {
+                "nombre": "Shannon Goss",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4704455": {
+                "nombre": "Adele Lim",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4770663": {
+                "nombre": "Alan McCullough",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4773703": {
+                "nombre": "April Blair",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4897178": {
+                "nombre": "Lily Sparks",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4916643": {
+                "nombre": "Edgar Lyall",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5186493": {
+                "nombre": "David Babcock",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5190576": {
+                "nombre": "Hannah Schneider",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5190690": {
+                "nombre": "Lisa Randolph",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5243498": {
+                "nombre": "Mike Herro",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5284490": {
+                "nombre": "Kim Bo-yeon",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5284948": {
+                "nombre": "Drew Lindo",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5284950": {
+                "nombre": "Wendy Riss Gatsiounis",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5285442": {
+                "nombre": "P.K. Simonds",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5286356": {
+                "nombre": "Laurie McCarthy",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5287067": {
+                "nombre": "Gretchen J. Berg",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5287069": {
+                "nombre": "Jennie Snyder Urman",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4767413": {
+                "nombre": "Aaron Harberts",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5243488": {
+                "nombre": "David Strauss",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5284759": {
+                "nombre": "Daniel Sinclair",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5287061": {
+                "nombre": "Robert Doty",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5287759": {
+                "nombre": "Erika Lippoldt",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5298615": {
+                "nombre": "Stephanie Sengupta",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4738601": {
+                "nombre": "Patti Carr",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5286359": {
+                "nombre": "John J. Sakmar",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5286361": {
+                "nombre": "Robert D. Doty",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5298610": {
+                "nombre": "Chris Atwood",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5298612": {
+                "nombre": "Ben Yeon Kim",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5238683": {
+                "nombre": "Kerry Lenhart",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5286362": {
+                "nombre": "Lara Olsen",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5298611": {
+                "nombre": "Kamran Pasha",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5298613": {
+                "nombre": "Kenny Lenhart",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4702313": {
+                "nombre": "Chelsey Lora",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4706028": {
+                "nombre": "Harley Peyton",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5287058": {
+                "nombre": "Nancy Won",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/5287057": {
+                "nombre": "Melody Fox",
+                "rol": "Escritor"
+            },
+            "https://www.starz.com/ar/es/artist/4524276": {
+                "nombre": "Adelaide Kane",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4710331": {
+                "nombre": "Megan Follows",
+                "rol": "Actor, Director"
+            },
+            "https://www.starz.com/ar/es/artist/4799612": {
+                "nombre": "Rachel Skarsten",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4914339": {
+                "nombre": "Torrance Coombs",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4880488": {
+                "nombre": "Toby Regbo",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5177959": {
+                "nombre": "Celina Sinden",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/1268925": {
+                "nombre": "Craig Parker",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4969835": {
+                "nombre": "Jenessa Grant",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4909224": {
+                "nombre": "Caitlin Stasey",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5042449": {
+                "nombre": "Rose Williams",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4314701": {
+                "nombre": "Anna Popplewell",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4903535": {
+                "nombre": "Ben Geurens",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4706635": {
+                "nombre": "Jonathan Keltz",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4938217": {
+                "nombre": "Dan Jeannotte",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/851282": {
+                "nombre": "Alan Van Sprang",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4957309": {
+                "nombre": "Sean Teale",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5221495": {
+                "nombre": "Jonathan Goad",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4962296": {
+                "nombre": "Charlie Carrick",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5286354": {
+                "nombre": "Spencer MacPherson",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/4688774": {
+                "nombre": "Will Kemp",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/742": {
+                "nombre": "Brad Silberling",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/2766": {
+                "nombre": "Helen Shaver",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4594705": {
+                "nombre": "David Frazee",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4690429": {
+                "nombre": "Rachel Talalay",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4698025": {
+                "nombre": "Jeremiah S. Chechik",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4698374": {
+                "nombre": "Norma Bailey",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4701335": {
+                "nombre": "Scott Peters",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4704750": {
+                "nombre": "Bruce McDonald",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4707927": {
+                "nombre": "Deborah Chow",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4712006": {
+                "nombre": "Fred Gerber",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4713704": {
+                "nombre": "Holly Dale",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4715274": {
+                "nombre": "Stuart Gillard",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4764785": {
+                "nombre": "Anne Wheeler",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4764847": {
+                "nombre": "Allan Kroeker",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4773074": {
+                "nombre": "Chris Grismer",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4776878": {
+                "nombre": "Mike Rohl",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4788171": {
+                "nombre": "Lee Rose",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4797848": {
+                "nombre": "Bradley Walsh",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4817052": {
+                "nombre": "Michael McGowan",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4826198": {
+                "nombre": "Jeff Renfroe",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4833240": {
+                "nombre": "Sudz Sutherland",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5068320": {
+                "nombre": "Charles Binam\u00e9",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5196354": {
+                "nombre": "Matt Hastings",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5244908": {
+                "nombre": "Steve DiMarco",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5261650": {
+                "nombre": "Alexandra Ordolis",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5287059": {
+                "nombre": "Nathaniel Goodman",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4962443": {
+                "nombre": "Andy Mikita",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/5200372": {
+                "nombre": "Dawn Wilkinson",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4492264": {
+                "nombre": "Larysa Kondracki",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4765961": {
+                "nombre": "Lynne Stopkewich",
+                "rol": "Director"
+            },
+            "https://www.starz.com/ar/es/artist/4853120": {
+                "nombre": "Rich Newey",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/63662": {
                 "titulo": "Temporada 1",
@@ -6984,6 +10460,24 @@
         "estudio": "\u00a9 Starz",
         "genero": "Drama",
         "sinopsis": "Cuando el cannabis medicinal es legalizado en Colombia, tres j\u00f3venes emprendedores r\u00e1pidamente se abren paso en el codiciado mercado.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/4942684": {
+                "nombre": "Sebastian Eslava",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5294301": {
+                "nombre": "Juan Pablo Urrego",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5294304": {
+                "nombre": "Carolina Gait\u00e1n",
+                "rol": "Actor"
+            },
+            "https://www.starz.com/ar/es/artist/5294306": {
+                "nombre": "Mar\u00eda Elisa Camargo",
+                "rol": "Actor"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/64893": {
                 "titulo": "Temporada 1",
@@ -7016,6 +10510,12 @@
         "estudio": "\u00a9 Starz",
         "genero": "Documental, Drama",
         "sinopsis": "\"Dr. Death: The Undoctored Story\" es la primera docuserie sobre el Dr. Christopher Duntsch, el notorio neurocirujano, cuya historia impactante ha cautivado al mundo.",
+        "elenco": {
+            "https://www.starz.com/ar/es/artist/5297023": {
+                "nombre": "Sara Mast",
+                "rol": "Director"
+            }
+        },
         "temporadas": {
             "https://www.starz.com/ar/es/series/65200": {
                 "titulo": "Temporada 1",
