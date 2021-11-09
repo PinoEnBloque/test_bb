@@ -7,6 +7,7 @@ def writeData (nombre_archivo: 'str', dict_preparado: 'dict') -> None:
 
     nombre_archivo = Nombre que tendrá el archivo .json.
     dict_preparado = Diccionario ya armado para ser convertido a json.
+    
     """
     editor = open(nombre_archivo, 'w')
     to_json = json.dumps(dict_preparado, indent=4)
